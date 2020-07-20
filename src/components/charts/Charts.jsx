@@ -68,7 +68,7 @@ const Charts = ({
         legend: { display: false },
         title: {
           display: true,
-          text: `Curent situation in ${
+          text: `Current situation in ${
             stateName !== "Total" && stateName ? stateName : country
           }`,
         },

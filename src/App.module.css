@@ -1,5 +1,6 @@
 body {
-    background-color: rgba(211, 223, 241, 0.87);
+    /* background-color: rgba(211, 223, 241, 0.87); */
+    background: linear-gradient(to right, rgb(223, 236, 233), rgb(66, 240, 217));
 }
 
 .container {
@@ -27,7 +28,8 @@ body {
     margin-bottom: 0;
     margin-left: 0;
     margin-right: 0;
-    background: rgba(96, 100, 100, 0.918);
+    /* background: rgba(96, 100, 100, 0.918); */
+    background: rgba(179, 245, 141, 0.918);
     padding-top: 5px;
     padding-bottom: 10px;
 }
